@@ -12,7 +12,8 @@ Do not
 
 ## History
 
-***01/11/2023*** - Created repo, did inital setup, and created logo and started making the wireframe for the page. Organized text into chunks/sections.
+***01/11/2023*** - Created repo, did inital setup, and created logo and started making the wireframe for the page. Organized text into chunks/sections.  
+***01/15/2023*** - Made some changes to the wireframe, optimized images in Photoshop, and coded the page.  
 
 ## Credits
 
