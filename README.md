@@ -18,6 +18,7 @@ Do not
 ## Credits
 
 sophwest / Sophia Westrop  
+Google Fonts
 
 ## License
 

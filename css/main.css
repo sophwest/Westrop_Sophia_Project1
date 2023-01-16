@@ -2,6 +2,13 @@
     display: none;
 }
 
+body {
+    font-family: 'Poppins', 'Calibri', sans-serif;
+    font-size: 20px;
+    color: #000;
+    font-weight: 100;
+}
+
 #container {
     width: 428px;
     margin: 20px auto;
@@ -16,4 +23,19 @@
     grid-column-gap: 16px;
     padding-left: 20px;
     padding-right: 20px;
+}
+
+article {
+    grid-column: 1/-1;
+}
+
+#mobile-nav {
+    grid-column: 4/5;
+}
+
+.burger {
+	height: 10px;
+	background-color:#ff1717;
+	display: block;
+	margin-bottom: 5px;
 }
